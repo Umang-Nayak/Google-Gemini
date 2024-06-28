@@ -1,4 +1,4 @@
-# Google Gemini
+# Google Gemini ![Google Gemini Logo](https://s.yimg.com/ny/api/res/1.2/FWWVOW6s2MUFV_yLq9E36g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/5f7be670-943f-11ee-af7f-41b7060d20ba)
 
 ## Introduction
 This project demonstrates the usage of the Google Gemini API. 
